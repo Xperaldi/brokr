@@ -37724,9 +37724,9 @@ A.Qo.prototype={
 I(a,b){var s,r,q,p=null,o=t.w,n=b.G(o).f.a.b,m=b.G(o).f.a.a
 o=this.a.c
 s=t.p
-r=n/20
+r=n/80
 q=m/20
-return A.dK(B.W,A.a([A.alW(A.a8(A.ea("assets/little_insc_back.png",B.A,p,B.wf,p,p),p,m),o),A.r7(A.b7(A.a([A.c3(A.a([A.a8(A.ea("assets/logo.png",B.A,p,p,p,p),n/10,m/10),A.a8(p,p,m/30),B.vm],s),B.n,B.cb,B.m),new A.aC(new A.a6(q,r,q,r),B.Nn,p)],s),B.n,B.r,B.m),!0)],s),B.Z)}}
+return A.dK(B.W,A.a([A.alW(A.a8(A.ea("assets/little_insc_back.png",B.A,p,B.wf,p,p),n/3,m),o),A.r7(A.b7(A.a([A.c3(A.a([A.a8(A.ea("assets/logo.png",B.A,p,p,p,p),n/10,m/10),A.a8(p,p,m/30),B.vm],s),B.n,B.cb,B.m),new A.aC(new A.a6(q,r,q,r),B.Nn,p)],s),B.n,B.r,B.m),!0)],s),B.Z)}}
 A.wR.prototype={
 a2(){return new A.O7(A.jJ("","","","","","","","","","","","","none","","","",""),B.l)}}
 A.O7.prototype={
